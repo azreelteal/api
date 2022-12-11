@@ -1,0 +1,28 @@
+{
+  "btech": [
+    {
+      "departmentId" : "btech/me",
+      "departmentName": "Mechanical Engineering"
+    },
+    {
+      "departmentId" : "btech/cse",
+      "departmentName": "Computer Engineering"
+    },
+    {
+      "departmentId" : "btech/ee",
+      "departmentName": "Electrical Engineering"
+    },
+    {
+      "departmentId" : "btech/ece",
+      "departmentName": "Electronics Engineering"
+    },
+    {
+      "departmentId" : "btech/pe",
+      "departmentName": "Petroleum Engineering"
+    },
+    {
+      "departmentId" : "btech/ft",
+      "departmentName": "Food Technology"
+    }
+  ]
+}

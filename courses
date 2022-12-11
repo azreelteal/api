@@ -1,0 +1,57 @@
+[
+  { 
+    "id" : "BTech",
+    "title" : "B.Tech",
+    "branch" : [
+      {
+      "branchId": "BTech/ME",
+      "branchName": "Mechanical Engineering"
+    },
+    {
+      "branchId": "BTech/CS",
+      "branchName": "Computer Engineering"
+    },
+    {
+      "branchId": "BTech/EE",
+      "branchName": "Electrical Engineering"
+    },
+    {
+      "branchId": "BTech/ECE",
+      "branchName": "Electronics Engineering"
+    },
+    {
+      "branchId": "BTech/PE",
+      "branchName": "Petroleum Engineering"
+    },
+    {
+      "branchId": "BTech/FT",
+      "branchName": "Food Technology"
+    },
+    {
+      "branchId": "BTech/CE",
+      "branchName": "Civil Engineering"
+    }
+    ]
+  },
+  { 
+    "id" : "BE",
+    "title" : "BE",
+    "branch" : [
+    {
+      "branchId": "BE/ME",
+      "branchName": "Mechanical Engineering"
+    },
+    {
+      "branchId": "BE/EE",
+      "branchName": "Electrical Engineering"
+    },
+    {
+      "branchId": "BE/CI",
+      "branchName": "Civil Engineering"
+    }]
+  },
+  { 
+    "id" : "MTech",
+    "title" : "M.Tech"
+  }
+]

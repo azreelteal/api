@@ -1,28 +1,47 @@
 {
-  "btech": [
+  "BTech": [
     {
-      "departmentId" : "btech/me",
+      "departmentId" : "BTech/me",
       "departmentName": "Mechanical Engineering"
     },
     {
-      "departmentId" : "btech/cse",
+      "departmentId" : "BTech/cse",
       "departmentName": "Computer Engineering"
     },
     {
-      "departmentId" : "btech/ee",
+      "departmentId" : "BTech/ee",
       "departmentName": "Electrical Engineering"
     },
     {
-      "departmentId" : "btech/ece",
+      "departmentId" : "BTech/ece",
       "departmentName": "Electronics Engineering"
     },
     {
-      "departmentId" : "btech/pe",
+      "departmentId" : "BTech/pe",
       "departmentName": "Petroleum Engineering"
     },
     {
-      "departmentId" : "btech/ft",
+      "departmentId" : "BTech/ft",
       "departmentName": "Food Technology"
+    }
+    ,
+    {
+      "departmentId" : "BTech/ci",
+      "departmentName": "Civil Engineering"
+    }
+  ],
+  "BE": [
+    {
+      "departmentId" : "BE/me",
+      "departmentName": "Mechanical Engineering"
+    },
+    {
+      "departmentId" : "BE/ee",
+      "departmentName": "Electrical Engineering"
+    },
+    {
+      "departmentId" : "BE/ece",
+      "departmentName": "Civil Engineering"
     }
   ]
 }
